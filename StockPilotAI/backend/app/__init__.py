@@ -1,0 +1,2 @@
+"""StockPilot AI backend application."""
+
